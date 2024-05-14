@@ -68,11 +68,11 @@ body {
 
 @font-face {
   font-family: "myfont2";
-  src: url("/Baloo2-VariableFont_wght.ttf");
+  src: url("Baloo2-VariableFont_wght.ttf");
 }
 @font-face {
   font-family: "myfont";
-  src: url("/BalooBhaijaan-Regular.ttf");
+  src: url("BalooBhaijaan-Regular.ttf");
 }
 .logo {
   margin-right: 50px;
