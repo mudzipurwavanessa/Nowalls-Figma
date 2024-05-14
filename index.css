@@ -134,7 +134,6 @@ body {
   background-color: rgb(0, 62, 84);
 }
 .Nav #main {
-  transition: margin-left 0.5s;
   padding: 16px;
 }
 .Nav a {
