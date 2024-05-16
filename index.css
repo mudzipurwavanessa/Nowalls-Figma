@@ -433,7 +433,7 @@ body {
     margin-top: -15px;
   }
   .head {
-    margin-left: -15px;
+    margin-left: -11px;
     margin-right: -28px;
   }
   .head h1 {
@@ -575,7 +575,7 @@ body {
   }
   .contact .button {
     margin-top: 26px;
-    width: 300px;
+    width: 259px;
     margin-left: 27px;
     border-radius: 5px;
   }
