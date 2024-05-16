@@ -433,7 +433,7 @@ body {
     margin-top: -15px;
   }
   .head {
-    margin-left: -28px;
+    margin-left: -15px;
     margin-right: -28px;
   }
   .head h1 {
@@ -513,7 +513,10 @@ body {
     height: 25vh;
   }
   .About {
-    margin-top: -175px;
+    padding-top: 14px;
+    padding-bottom: 104px;
+    margin: 37px;
+    margin-top: -98px;
   }
   .About h2 {
     font-size: 18px;
@@ -525,9 +528,9 @@ body {
     display: none;
   }
   .service {
+    margin-top: -101px;
     font-size: 12px;
     width: 377px;
-    margin-top: -140px;
   }
   .service .grrr {
     margin: 43px;
@@ -540,6 +543,7 @@ body {
   }
   .subscribe {
     flex-direction: column;
+    padding: 40px;
   }
   .subscribe h2 {
     font-size: 12px;
@@ -602,7 +606,7 @@ body {
   }
   .Nowalls .image {
     background-position: left;
-    width: 115%;
+    width: 120%;
   }
   .Nowalls h2 {
     font-size: 20px;

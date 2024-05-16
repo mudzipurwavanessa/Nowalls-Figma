@@ -571,7 +571,7 @@ h5{
     margin-top: -15px;
         }
        .head{
-        margin-left: -28px;
+        margin-left: -15px;
         margin-right: -28px;
         h1{
             font-size: 26px;
@@ -679,7 +679,10 @@ h5{
     }
     
     .About{
-        margin-top: -175px;
+        padding-top: 14px;
+        padding-bottom: 104px;
+        margin: 37px;
+        margin-top: -98px;
         h2{
           font-size: 18px;  
         }
@@ -691,14 +694,14 @@ h5{
         }
       } 
         .service{
-    
+            margin-top: -101px;
             .grrr{
                 margin: 43px;
             }
             font-size: 12px;
             width: 377px;
             
-        margin-top: -140px;
+       
         h2{
             font-size: 18px;
         }
@@ -712,6 +715,7 @@ h5{
             // margin-left: -44px;
             // margin-right: -53px;
             flex-direction: column;
+            padding: 40px;
             h2{
                 font-size: 12px;
             }
@@ -784,7 +788,7 @@ h5{
      .Nowalls{
         .image{
             background-position: left;
-            width: 115%;
+            width: 120%;
         }
         h2{
             font-size: 20px;
