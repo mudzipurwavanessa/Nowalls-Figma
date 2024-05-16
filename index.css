@@ -25,12 +25,14 @@
   height: 55.7vh;
   -o-object-fit: cover;
      object-fit: cover;
+  margin-top: 19px;
 }
 
 .kiki {
   height: 55.8vh;
   -o-object-fit: cover;
      object-fit: cover;
+  margin-top: 19px;
 }
 
 .leyla {
@@ -59,7 +61,7 @@
 }
 
 .banner {
-  margin-top: 14px;
+  margin-top: 20.8px;
 }
 
 body {
@@ -208,8 +210,8 @@ body {
 }
 .About img {
   margin-left: 80px;
-  width: 80%;
-  margin-top: -62px;
+  width: 73%;
+  margin-top: -115px;
 }
 .About h2 {
   font-family: "myfont", BalooBhaijaan;
@@ -324,8 +326,8 @@ body {
   font-size: 16px;
 }
 .contact img {
-  height: 118vh;
-  width: 100%;
+  height: 137vh;
+  width: 74%;
   margin-bottom: 15px;
   -o-object-fit: contain;
      object-fit: contain;
@@ -349,7 +351,7 @@ body {
   margin-top: 15px;
   background-color: #0A3140;
   padding: 10px;
-  border-radius: 8px;
+  border-radius: 5px;
 }
 .contact h2 {
   font-family: "myfont", BalooBhaijaan;
@@ -508,6 +510,7 @@ body {
   }
   .banner img {
     width: 311px;
+    height: 25vh;
   }
   .About {
     margin-top: -175px;
@@ -558,8 +561,8 @@ body {
        object-fit: cover;
   }
   .contact {
-    height: 140.8vh;
-    margin-top: 25px;
+    height: 150.8vh;
+    margin-top: -25px;
     background-size: 100%;
     flex-direction: column;
   }
@@ -580,11 +583,11 @@ body {
     top: -450px;
   }
   .contact .forms {
-    margin-top: -471px;
+    margin-top: -540px;
   }
   .contact img {
     position: relative;
-    top: -211px;
+    top: -247px;
     width: 222px;
   }
   .contact .form-control {
@@ -598,7 +601,8 @@ body {
     width: 113%;
   }
   .Nowalls .image {
-    background-position: right;
+    background-position: left;
+    width: 115%;
   }
   .Nowalls h2 {
     font-size: 20px;
@@ -615,6 +619,10 @@ body {
   .loggo img {
     width: 160px;
     margin-left: 5px;
+  }
+  .contact .get {
+    position: relative;
+    top: -532px;
   }
 }
 @media only screen and (min-width: 577px) and (max-width: 992px) {
@@ -736,8 +744,9 @@ body {
     height: 70.8vh;
   }
   .contact img {
-    height: 105vh;
+    height: 122vh;
     margin-top: -236px;
+    width: 132%;
     -o-object-fit: contain;
        object-fit: contain;
   }
