@@ -934,4 +934,63 @@ body {
     -o-object-fit: cover;
     object-fit: cover;
   }
+}
+@media screen and (min-width: 766px) and (max-width: 767.9px) {
+  .home .kasama {
+    width: 124%;
+    height: 50vh;
+    margin-left: -102px;
+  }
+  .row .lili {
+    width: 87%;
+    position: relative;
+    top: -116px;
+    left: 90px;
+    height: 20vh;
+  }
+  .katama {
+    width: 250%;
+    height: 23vh;
+  }
+  .contact {
+    height: 137.8vh;
+  }
+  .contact img {
+    display: none;
+    height: 45vh;
+    width: 92%;
+    margin-top: -4px;
+  }
+  .contact .get {
+    margin-top: 70px;
+  }
+  .banner {
+    margin-top: 23.8px;
+    margin-left: 24px;
+  }
+  .banner .katama {
+    width: 139%;
+    height: 56vh;
+    -o-object-fit: cover;
+    object-fit: cover;
+    margin-left: -37px;
+  }
+  .contact .forms {
+    font-family: "myfont2", Baloo2;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: -3px;
+    opacity: 65%;
+    color: white;
+    border-color: white;
+  }
+  .About {
+    margin-top: -68px;
+  }
+  .Nowalls .no {
+    padding-left: 61px;
+    position: relative;
+    padding-top: 2px;
+    left: -48px;
+  }
 }/*# sourceMappingURL=index.css.map */
